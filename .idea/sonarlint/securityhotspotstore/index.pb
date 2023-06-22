@@ -1,0 +1,19 @@
+
+\
+,src/test/resources/webdriver/geckodriver.exe,4\a\4a2e4b7ab36389a0a2f45a6dd377aa5a676a3e1a
+[
++src/test/resources/features/youtube.feature,e\c\ec3599e465212317458056df0d04e47dfae1ef00
+P
+ src/test/java/runner/Runner.java,0\0\00619e8ed3c478baf77146b160d72321ab85b552
+E
+evidencias/index.html,0\c\0ca23661760f057236e05ee0489d6151319b9a76
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+C
+serenity.properties,2\5\25f1bbdc8dba7ca4a4b90251f1ef69621b24a28c
+T
+$src/main/java/definitions/Hooks.java,e\5\e5017aa3b94aec88cb64dff673d4121a7b38726d
+S
+#src/main/java/pages/HomePageUI.java,e\e\eef5fdb37d37f38726f6bf2f053f9a5870444327
+a
+1src/main/java/definitions/HomePageDefinitons.java,0\b\0ba3360d1e11d812b37ab492e5a48ef53a5b0547

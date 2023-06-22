@@ -1,0 +1,10 @@
+
+£
+java:S1186*"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(êÉø„øÿÿÿÿ8É®¡·Œ1
+X	java:S125"<This block of commented-out lines of code should be removed.(Êó–û8Ð®¡·Œ1
+X	java:S125 "<This block of commented-out lines of code should be removed.(ï‹¾ú8×®¡·Œ1
+t
+java:S1128"RRemove this unused import 'io.github.bonigarcia.wdm.managers.ChromeDriverManager'.(¢åþÿÿÿÿ8Ù®¡·Œ1
+m
+java:S1128
+"PRemove this unused import 'net.thucydides.core.util.SystemEnvironmentVariables'.(†ßê×8Ú®¡·Œ1
